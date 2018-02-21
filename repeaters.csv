@@ -1,0 +1,49 @@
+ ,145.230-,123, Greeleyville, , ,W4APE,P
+ ,145.390-,None, Walterboro, , ,KG4BZN,L
+ ,145.410-,123, Seabrook Island,"N 32° 34' 50""     W 80° 09' 35""",150,WA4USN,K
+ ,145.450-,123, Rutledge Tower (MUSC),"N 32° 47' 03""     W 79° 56' 42""",160,W4HRS,T
+ ,145.490-,103.5, Moncks Corner EOC,"N 33° 11' 56""     W 80° 00' 25""",150,W4HRS,W
+ ,146.610-,123, Goose Creek,"N 33° 07' 32""     W 80° 02' 20""",450,W4BRK, 
+ ,146.685-,91.5, Florence (SCETV Tower),"N 34° 16' 48""     W 79° 44' 34""",480,WR4SC,Link *35
+ ,146.700-,123, Georgetown Mem. Hospital,"N 33° 22' 46""     W 79° 17' 05""",60,W4HRS,W
+ ,146.715-,91.5, Columbia (I-77 & I-20),"N 34° 07' 07""     W 80° 56' 13""",825,WR4SC,Link *32
+ ,146.715-,162.2, Conway (SCETV Tower),"N 33° 56' 59""     W 79° 06' 31""",480,WR4SC,Link *30
+ ,146.715-,123, Whitehall (SCETV Tower),"N 32° 42' 43""     W 80° 40' 54""",835,WR4SC,Link *34
+ ,146.730-,123, Trident Medical Center,"N 32° 58' 35""     W 80° 04' 24""",94,W4HRS,W
+ ,146.760-,123, Awendaw (Chan. 5 Tower),"N 32° 55' 28""     W 79° 41' 58""",855,WR4SC,Link *31
+Tone 4 Nets,146.790-,123, USS Yorktown,"N 32° 47' 26""     W 79° 54' 29""", ,WA4USN,K
+Off Air,146.835-,None, Summerville (I-26),"N 33° 02' 20""     W 80° 09' 16""", ,KT4YW, 
+ ,146.880-,123, Orangeburg,"N 33° 32' 35""     W 80° 49' 27""",380,WR4SC,Link *39
+ ,146.910-,156.7, Whitehall (SCETV Tower),"N 32° 42' 43""     W 80° 40' 54""", ,WA4SJS,L
+ ,146.940-,123, Knightsville,"N 32° 59' 38""     W 80° 16' 12""",280,WA4USN,K
+ ,146.985-,123, Summerville Med. Center,"N 32° 57' 57""     W 80° 09' 27""",65,W1GRE,W
+ ,147.045+,103.5, St. George,"N 33° 10' 25""     W 80° 34' 26""", ,K4ILT,K
+ ,147.105+,123, Wallace (SCETV Tower),"N 32° 48' 08""     W 80° 01' 25""",380,WR4SC,Link *33
+ ,147.135+,156.7, Walterboro, , ,KG4BZN,L
+ ,147.150+,91.5, Moncks Corner,"N 33° 11' 56""     W 80° 00' 25""",150,WD4NUN, 
+ ,147.180+,123, Dorchester,"N 33° 08' 31""     W 80° 21' 03""",280,W4HNK, 
+ ,147.195+,123, Florence, , ,W4APE,P
+ ,147.210+,210.7, Moncks Corner, , , , 
+ ,147.225+,None, Santee, , ,W4DTW, 
+ ,147.270+,123, S'ville (Dorchester EOC), , ,W4ANK,T
+ ,147.300+,162.2, Russellville, , , , 
+ ,147.345+,None, Adams Run, , ,W4ANK,T
+ ,147.375+,123, Georgetown, , ,NE4SC, 
+ ,441.450+,123, Knightsville,"N 32° 59' 38""     W 80° 16' 12""",260,WA4USN,H K A
+ ,441.575+,91.5, Florence (SCETV Tower),"N 34° 16' 48""     W 79° 44' 34""",500,WR4SC,Link *55 H
+ ,441.575+,123, Wallace (SCETV Tower),"N 32° 48' 08""     W 80° 01' 25""",400,WR4SC,Link *53 H
+ ,441.675+,162.2, Conway (SCETV Tower),"N 33° 56' 59""     W 79° 06' 31""",500,WR4SC,Link *50 H
+ ,441.675+,123, Whitehall (SCETV Tower),"N 32° 42' 43""     W 80° 40' 54""",815,WR4SC,Link *54 H
+ ,441.725+,123, Awendaw (Chan. 5 Tower),"N 32° 55' 28""     W 79° 41' 58""",950,WR4SC,Link *51 H
+ ,441.725+,91.5, Columbia (I-77 & I-20),"N 34° 07' 07""     W 80° 56' 13""",800,WR4SC,Link *52 H
+ ,441.750+,123, Orangeburg,"N 33° 32' 35""     W 80° 49' 27""",400,WR4SC,Link *59 H
+ ,442.050+,123, Florence, , ,W4APE,H P
+ ,442.150+,123, Trident Medical Center,"N 32° 58' 35""     W 80° 04' 24""",94,W4HRS,H T
+ ,443.800+,123, Dorchester,"N 33° 08' 31""     W 80° 21' 03""", ,W4HNK, 
+ ,444.075+,156.7, Whitehall (SCETV Tower),"N 32° 42' 43""     W 80° 40' 54""", ,KG4BZN,H L
+ ,444.550+,156.7, Walterboro, , ,KG4BZN,L
+ ,444.750+,123, Greeleyville, , ,W4APE,P
+ ,444.775+,123, St. Francis Hospital,"N 32° 48' 30""     W 80° 02' 31""",40,W4HRS,W
+ ,444.825+,123, Rutledge Tower (MUSC),"N 32° 47' 03""     W 79° 56' 42""",160,W4HRS,W
+ ,444.850+,123, Colleton County Medical,"N 32° 55' 19""     W 80° 40' 30""",60,W4HRS,W
+ ,444.925+,123, Georgetown, , ,NE4SC,
